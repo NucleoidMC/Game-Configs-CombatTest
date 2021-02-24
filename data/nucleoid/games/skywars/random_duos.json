@@ -1,0 +1,12 @@
+{
+  "type": "plasmid:random",
+  "translation": "game.nucleoid.skywars.duos",
+  "games": [
+    "skywars:duos/shroomlight",
+    "skywars:duos/coral_reef",
+    "skywars:duos/solar_system",
+    "skywars:duos/hive",
+    "skywars:duos/woodland",
+    "skywars:duos/tinytater"
+  ]
+}

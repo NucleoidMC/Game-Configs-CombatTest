@@ -1,0 +1,13 @@
+{
+  "type": "plasmid:random",
+  "translation": "game.nucleoid.skywars.singles",
+  "games": [
+    "skywars:single/shroomlight",
+    "skywars:single/coral_reef",
+    "skywars:single/solar_system",
+    "skywars:single/hive",
+    "skywars:single/woodland",
+    "skywars:single/tinytater"
+  ]
+}
+  

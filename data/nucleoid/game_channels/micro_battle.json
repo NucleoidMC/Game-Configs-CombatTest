@@ -1,0 +1,22 @@
+{
+  "type": "plasmid:menu",
+  "translation": "game.nucleoid.micro_battle",
+  "games": [
+    {
+      "game": "microbattle:standard_micro_battle",
+      "icon": "minecraft:netherite_sword"
+    },
+    {
+      "game": "microbattle:soul_micro_battle",
+      "icon": "minecraft:soul_soil"
+    },
+    {
+      "game": "microbattle:respawner_micro_battle",
+      "icon": "minecraft:beacon"
+    },
+    {
+      "game": "nucleoid:micro_battle/random",
+      "icon": "minecraft:netherite_axe"
+    }
+  ]
+}

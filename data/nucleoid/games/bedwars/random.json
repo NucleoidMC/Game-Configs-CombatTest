@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "translation": "game.nucleoid.bedwars",
+  "translation": "game.nucleoid.random",
   "games": [
     "nucleoid:bedwars/random_two_teams",
     "nucleoid:bedwars/random_four_teams"

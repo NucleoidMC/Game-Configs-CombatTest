@@ -1,16 +1,16 @@
 {
+  "game.nucleoid.four_teams": "Four Teams",
+  "game.nucleoid.random": "Random",
+  "game.nucleoid.two_teams": "Two Teams",
+  
   "game.nucleoid.beacon_breakers": "Beacon Breakers",
   "game.nucleoid.bow_battle": "Bow Battle",
 
   "game.nucleoid.bedwars": "Bed Wars",
-  "game.nucleoid.bedwars.two_teams": "Bed Wars: 2 Teams",
-  "game.nucleoid.bedwars.four_teams": "Bed Wars: 4 Teams",
 
   "game.nucleoid.build_battle": "Build Battle",
 
   "game.nucleoid.cake_wars": "Cake Wars",
-  "game.nucleoid.cake_wars.four_teams": "Cake Wars: 4 Teams",
-  "game.nucleoid.cake_wars.two_teams": "Cake Wars: 2 Teams",
   
   "game.nucleoid.destroy_the_monument": "Destroy The Monument",
   "game.nucleoid.duels": "Duels",
@@ -22,8 +22,6 @@
   "game.nucleoid.koth.stack": "KotH: Stack",
   
   "game.nucleoid.micro_battle": "Micro Battle",
-  
-  "game.nucleoid.random": "Random",
 
   "game.nucleoid.skywars": "Skywars",
   "game.nucleoid.skywars.singles": "Skywars (Singles)",
